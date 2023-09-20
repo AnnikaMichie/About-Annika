@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1>My first heading/<h1>
+<p>This is a paragraph.</p>
+<img src="githubpic1.jpg" alt="W3Schools.com" width="104" height="142">
+<img src="githubpic2.jpg" alt="W3Schools.com" width="104" height="142">
+<a href="https://www.omega365.com">This is a link</a>
+</body>
+</html>
